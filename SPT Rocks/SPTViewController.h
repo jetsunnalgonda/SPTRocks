@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SoilSample.h"
+#import "Measurements.h"
 
 @interface SPTViewController : UIViewController
 
